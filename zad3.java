@@ -1,5 +1,8 @@
 import java.util.Scanner;
-
+    /*
+    Summary:Zadanie 3, dzienne zapotrzebowanie w kalorie,kg,cm,lata,plec
+    Author:Mariusz Krzyżopolski
+     */
 public class Main {
 
     public static void main(String[] args) {
@@ -17,8 +20,4 @@ public class Main {
         System.out.print(result);
 
     }
-    /*
-    Summary:Zadanie 3, dzienne zapotrzebowanie w kalorie,kg,cm,lata,plec
-    Author:Mariusz Krzyżopolski
-     */
 }

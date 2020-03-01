@@ -1,5 +1,8 @@
 import java.util.Scanner;
-
+    /*
+    Summary:Zadanie 4, piramidka
+    Author:Mariusz Krzyżopolski
+     */
 public class Main {
 
     public static void main(String[] args) {
@@ -20,8 +23,5 @@ public class Main {
         }
 
     }
-    /*
-    Summary:Zadanie 4, piramidka
-    Author:Mariusz Krzyżopolski
-     */
+
 }

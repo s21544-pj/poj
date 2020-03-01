@@ -1,5 +1,8 @@
 import java.util.Scanner;
-
+    /*
+    Summary:Zadanie 2, BMI waga w kg,wzorst w m
+    Author:Mariusz Krzyżopolski
+     */
 public class Main {
 
     public static void main(String[] args) {
@@ -14,8 +17,5 @@ public class Main {
         else System.out.print("nadwaga");
 
     }
-    /*
-    Summary:Zadanie 2, BMI waga w kg,wzorst w m
-    Author:Mariusz Krzyżopolski
-     */
+
 }

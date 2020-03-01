@@ -1,5 +1,9 @@
 import java.util.Scanner;
-
+    /*
+    Summary:Flaga Polski i Japonii w znakach ASCII
+    Size: 1 - small 2 - medium 3 - big
+    Author:Mariusz Krzyżopolski
+     */
 public class Main {
 
     public static void main(String[] args) {
@@ -35,9 +39,5 @@ public class Main {
         System.out.print("|");
         System.out.println();
     }
-    /*
-    Summary:Flaga Polski i Japonii w znakach ASCII
-    Size: 1 - small 2 - medium 3 - big
-    Author:Mariusz Krzyżopolski
-     */
+
 }
